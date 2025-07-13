@@ -1,3 +1,5 @@
+chmod +x 6-superstitious_numbers
+./6-superstitious_numbers
 #!/usr/bin/env bash
 # This script displays numbers from 1 to 20 with specific "bad luck" messages for certain numbers
 
